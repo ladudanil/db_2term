@@ -1,0 +1,20 @@
+INFO:root:2021-06-22 22:21:04.146240: Registration: Registration failure. Username "Danya" already existsINFO:root:2021-06-22 22:28:45.111737: Log in: Log in successful. "Danya" logged in
+
+INFO:root:2021-06-22 22:29:15.977791: Log out: Log out successful. "Danya" logged in
+
+INFO:root:2021-06-22 22:29:33.685889: Log in: Log in successful. "Nikita" logged in
+
+INFO:root:2021-06-22 22:29:44.862754: Log out: Log out successful. "Nikita" logged in
+
+INFO:root:2021-06-22 22:29:49.906502: Log in: Log in successful. "Danya" logged in
+
+INFO:root:2021-06-22 22:30:09.363706: Log out: Log out successful. "Danya" logged in
+
+INFO:root:2021-06-22 22:32:51.066300: Log in: Log in successful. "Danya" logged in
+
+INFO:root:2021-06-22 22:33:13.465155: Log out: Log out successful. "Danya" logged in
+
+INFO:root:2021-06-22 22:34:15.640234: Log in: Log in successful. "Nikita" logged in
+
+INFO:root:2021-06-22 22:34:24.022171: Log out: Log out successful. "Nikita" logged in
+
